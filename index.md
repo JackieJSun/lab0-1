@@ -1,8 +1,10 @@
 # Jackie Sun
-## University of California - San Diego
-## Computer Science Major
+**University of California - San Diego**
+**Computer Science Major**
 
-![UCSD logo](https://upload.wikimedia.org/wikipedia/commons/1/18/UCSD_Seal.png)
+## Introduction
+
+![UCSD logo](https://upload.wikimedia.org/wikipedia/commons/f/f6/UCSD_logo.png)
 
 **Currently taking CSE 110 (Software Engineering) with Professor Thomas Powell.**
 
@@ -13,14 +15,14 @@ System.out.println("Hello, world.");
 ```
 
 ![This is the GitHub logo!](https://cdn.iconscout.com/icon/free/png-256/github-1767765-1502345.png)
-*GitHub logo by Akveo*
+*GitHub logo by Akveo* <br />
 *Creative Commons 4 Attribution*
 
 ## Documentation Used 
 
 This page was created using the documentation for [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-The specific documentation used for formatting section links can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links).
+The specific section of the documentation about formatting section links can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links).
 
 ## Notable Files in Repo
 [Readme for this project](/README.md)
