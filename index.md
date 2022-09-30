@@ -29,6 +29,7 @@ The specific section of the documentation about formatting section links can be 
 
 ## Programming Languages
 - Java
+- C
 - C++
 - Python
 
