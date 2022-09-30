@@ -2,9 +2,9 @@
 **University of California - San Diego**
 **Computer Science Major**
 
-## Introduction
-
 ![UCSD logo](https://upload.wikimedia.org/wikipedia/commons/f/f6/UCSD_logo.png)
+
+## Introduction
 
 **Currently taking CSE 110 (Software Engineering) with Professor Thomas Powell.**
 
@@ -14,7 +14,7 @@
 System.out.println("Hello, world.");
 ```
 
-![This is the GitHub logo!](https://cdn.iconscout.com/icon/free/png-256/github-1767765-1502345.png)
+![This is the GitHub logo!](https://cdn.iconscout.com/icon/free/png-256/github-1767765-1502345.png) <br />
 *GitHub logo by Akveo* <br />
 *Creative Commons 4 Attribution*
 
